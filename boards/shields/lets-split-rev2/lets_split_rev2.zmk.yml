@@ -1,0 +1,11 @@
+file_format: "1"
+id: lets_split_rev2
+name: lets-split-rev2
+type: shield
+url: https://github.com/salman-farooq-sh/zmk-keyboard-lets-split-rev2
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - lets_split_rev2_left
+  - lets_split_rev2_right
