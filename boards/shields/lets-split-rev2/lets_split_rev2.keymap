@@ -7,10 +7,10 @@
 
         default_layer {
             bindings = <
-                &kp Z    &kp M    &kp K    &kp K    &kp K    &kp K    &kp K    &kp K    &kp K    &kp K    &kp K    &kp K
-                &kp A    &kp B    &kp C    &kp C    &kp C    &kp C    &kp C    &kp C    &kp C    &kp C    &kp C    &kp C
-                &kp D    &kp E    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F
-                &kp D    &kp E    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F
+                &kp Z          &kp M    &kp K    &kp K    &kp K    &kp K    &kp K    &kp K    &kp K    &kp K    &kp K    &kp K
+                &kp A          &kp B    &kp C    &kp C    &kp C    &kp C    &kp C    &kp C    &kp C    &kp C    &kp C    &kp C
+                &kp D          &kp E    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F
+                &bootloader    &kp E    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F    &kp F    &bootloader
             >;
         };
     };
