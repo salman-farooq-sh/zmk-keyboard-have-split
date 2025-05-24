@@ -1,0 +1,3 @@
+config SHIELD_HAVE_SPLIT
+    def_bool $(shields_list_contains,have_split)
+
